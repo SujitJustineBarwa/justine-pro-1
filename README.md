@@ -3,7 +3,7 @@ Problem Statement :
 Assume a two-arm manipulator with two revolute joints. Write a code in language of your choice (Matlab can be easy though) to do the following.\
 1.Draw the robot world to display the robot and some polygonal obstacles.\
 2.The code to generate the robot end effector workspace.\
-3.The code should also generate the configuration space and display the configuration  space obstacles.\
+3.The code should also generate the configuration space and display the configuration  space obstacles.
 
 Solution approach:\
 1.The two arm are made and Plotted in graph using fill command(taking ttache vertex as input).\
